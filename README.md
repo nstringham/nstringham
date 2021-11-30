@@ -1,4 +1,8 @@
-### Hi there 👋
+## Nate Stringham (he/him)
+
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstringham&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nate's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nstringham&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nstringham/nstringham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
