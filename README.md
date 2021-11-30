@@ -1,6 +1,6 @@
 ## Nate Stringham (he/him)
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstringham&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstringham&show_icons=true&theme=github_dark)
 
 [![Nate's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nstringham&show_icons=true&theme=github_dark)](https://wakatime.com/@nstringham)
 
