@@ -1,8 +1,18 @@
 ## Nate Stringham (he/him)
 
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nstringham&show_icons=true&theme=github_dark)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nstringham&show_icons=true&theme=default">
+    <img alt="Nate's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nstringham&show_icons=true&theme=github_dark">
+  </picture>
+</p>
 
-[![Nate's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nstringham&show_icons=true&theme=github_dark)](https://wakatime.com/@nstringham)
+<p><a href="https://wakatime.com/@nstringham">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nstringham&show_icons=true&theme=default">
+    <img alt="Nate's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=nstringham&show_icons=true&theme=github_dark">
+  </picture>
+</a></p>
 
 <!--
 **nstringham/nstringham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
